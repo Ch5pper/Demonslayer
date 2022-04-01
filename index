@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="demonslayer.css">
+    <script src="demonslayer.js">
+
+    </script>
+    <title>Demon Slayer game</title>
+  </head>
+  <body>
+
+      <section id="mySidebar" class="sidebar">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+        <a href="index.html">Home</a>
+        <a href="demonslayercharacters.html">Characters</a>
+        <a href="demonslayerwebshop.html">Webshop</a>
+        <a href="demonslayersources.html">Sources</a>
+      </section>
+
+<aside class="sticky">
+  <button class="openbtn" onclick="openNav()" >☰</button>
+</aside>
+
+<header>
+  <h1>Demon slayer - The Hinokami Chronicles</h1>
+
+  <figure>
+    <img src="https://wallpapercave.com/wp/wp9566123.jpg" alt="Demon slayer">
+  </figure>
+</header>
+<main>
+<section>
+<article>
+  <h2>Samenvatting voor de Nintendo Switch Gameplay:</h2>
+
+  <p>Aangepast aan de gebeurtenissen van het eerste seizoen van de anime-serie en Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train, volgt de verhaalmodus voor één speler Tanjiro Kamado, de hoofdrolspeler van de serie, terwijl hij zich aansluit bij het Demon Slayer Corps en de confrontatie aangaat met en tegen verschillende demonen om zijn zus Nezuko, die een demon is geworden, weer in een mens te veranderen.
+  </p>
+  <p> Het verhaal bevat enkele verkenningselementen en wordt verteld door middel van verschillende tussenfilmpjes en eindbaasgevechten met demonen die te zien zijn in de anime-serie. De Hinokami Chronicles heeft ook een versus-modus, waarin spelers teams van twee vechters uit de selectie vormen en het opnemen tegen CPU-tegenstanders of andere mensen.
+  </p>
+  <p> De game ondersteunt zowel lokale als online multiplayer.</p>
+</article>
+
+</section>
+
+<section class="row dark" id="sec01">
+  <section class="content">
+    <h1>Details over de game</h1>
+
+<aside class="container">
+	<table>
+		<thead>
+			<tr>
+				<th>Categorie</th>
+				<th>Spelers</th>
+				<th>Release Datum</th>
+        <th>Platformen</th>
+        <th>Leeftijdsclassificatie</th>
+        <th>Seizoenen</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Actiespel</td>
+				<td>1 (minimaal)</td>
+				<td>10-06-2022</td>
+        <td>Playstation 4</td>
+        <td>16+</td>
+        <td>1 (Alleen de game en series)</td>
+			</tr>
+			<tr>
+				<td>Vechtspel</td>
+				<td>2 (maximaal)</td>
+				<td>-</td>
+        <td>Playstation 5</td>
+        <td>-</td>
+        <td>2 (alleen de series)</td>
+			</tr>
+      <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Xbox One</td>
+        <td>-</td>
+        <td>3 (series wordt 2023 verwacht)</td>
+      </tr>
+      <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Project Scarlett</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Microsoft Windows</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Nintendo Switch</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+		</tbody>
+	</table>
+</aside>
+
+</section>
+</section>
+
+<section>
+  <h1 class="cool">Het verhaal van de serie</h1>
+
+<aside class="space">
+
+  <p>‎Demon Slayer: Kimetsu no Yaiba‎‎ ‎‎is een van de meest populaire anime-series die de afgelopen jaren is uitgekomen en de recente toevoeging van de titel aan de ‎‎anime-bibliotheek van Netflix‎‎ heeft een gloednieuw publiek in staat gesteld om de spannende actie te ervaren. ‎</p>
+</aside>
+
+  <aside class="space">
+
+  <p>‎Demon Slayer ‎‎beschrijft de reis van Tanjiro, een ontluikende Demon Slayer die erop uit is om de krachtige en dodelijke demon neer te halen die verantwoordelijk is voor de dood van zijn familie en die zijn zus in een hondsdol wezen te heeft veranderd. Tanjiro en zijn mede Demon Slayers groeien op aanzienlijke manieren en leren ongelooflijke nieuwe vaardigheden naarmate ze vorderen op hun reis, die nog lang niet voorbij is. ‎‎Demon Slayer ‎‎pakt veel in het eerste seizoen van 26 afleveringen, maar er worden enkele serieuze onthullingen gedaan in de finale die een grote invloed zullen hebben op wat er gaat komen voor het demonen dodende team.‎</p>
+
+</aside>
+
+<img src="https://www.denofgeek.com/wp-content/uploads/2021/01/Demon-Slayer-Mugen-Train-Tanjiro-Attack.jpg?resize=768%2C432" class="epic" alt="Demon slayer action" >
+
+  <h2 class="cool">Wat zijn de Twaalf Upper Moons van plan?‎</h2>
+
+  <aside class="space">
+
+  <p>‎De finale van‎‎ ‎‎Demon Slayer‎‎ biedt uitstel van actie terwijl Tanjiro en vrienden op adem komen en hun plan voor de toekomst bedenken. Een huiveringwekkende flashback toont Muzan Kibutsuji echter op zijn meest venijnige manier. Gefrustreerd door de mislukte pogingen van Rui en de andere Lower Twelve Demon Moons, maakt Kibutsuji de winkel schoon en slacht het lot van hen af in plaats van met meer frustratie om te gaan. ‎</p>
+</aside>
+  <aside class="space">
+
+  <p>De enige uitzondering is Enmu, die de juiste trouw toont tegenover de Twelve Demon Moon-leider. Muzan beloont Enmu met een gezonde dosis van zijn bloed, wat hem een enorme boost in kracht geeft, en informeert de demon dat hij nog meer zal krijgen als hij Tanjiro uitschakelt. Op een zeer indrukwekkende manier weet de finale zowel een aantal grote schurken uit te schakelen, maar ook Enmu te positioneren als de nieuwe grote bedreiging. Het is een betere strategie voor wat komen gaat dan dat Tanjiro een compleet nieuwe vijand tegenkomt.‎</p>
+  <p>‎Demon Slayer ‎‎seizoen 1‎‎ ‎‎eindigt met Tanjiro, Nezuko, Inosuke en Zenitsu die leren dat een enorme trein de plaats is geworden van talloze slachtoffers en demonenwaarnemingen. Het Demon Slayer Corps stuurt Tanjiro om deze locomotief van zijn kwaad te verlossen. Dit is het soort verhaal dat gemakkelijk een enkele aflevering in seizoen één had kunnen zijn, dus het is spannend om te horen dat de Mugen-trein die bezeten is door Enmu eigenlijk een veel groter obstakel is voor het team dan Tanjiro, Zenitsu, Inosuke en Nezuko hadden verwacht. ‎</p>
+</aside>
+</section>
+
+</main>
+
+  <section class="row dark">
+    <section class="content">
+      <h1>Trailer van de game</h1>
+
+<video src="C:\Users\PRija\Downloads\demonslayer.mp4" controls autoplay poster="https://store-images.s-microsoft.com/image/apps.18969.14398749872176704.f59f9492-0750-4d03-9a2d-acee18167bb9.40c2a4db-e37d-48f1-a8e0-ff5213d9d6b8?mode=scale&q=90&h=720&w=1280">
+
+</video>
+
+  </section>
+  </section>
+
+  <footer>
+<h5>Deze Website is gemaakt door: Perry Rijaard, s1135303</h5>
+</footer>
+  </body>
+</html>
